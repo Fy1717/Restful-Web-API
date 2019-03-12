@@ -1,0 +1,14 @@
+C:\Users\frkny\source\repos\RestApi3\RestApi3\bin\Debug\netcoreapp2.1\RestApi3.deps.json
+C:\Users\frkny\source\repos\RestApi3\RestApi3\bin\Debug\netcoreapp2.1\RestApi3.runtimeconfig.json
+C:\Users\frkny\source\repos\RestApi3\RestApi3\bin\Debug\netcoreapp2.1\RestApi3.runtimeconfig.dev.json
+C:\Users\frkny\source\repos\RestApi3\RestApi3\bin\Debug\netcoreapp2.1\RestApi3.dll
+C:\Users\frkny\source\repos\RestApi3\RestApi3\bin\Debug\netcoreapp2.1\RestApi3.pdb
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.csprojAssemblyReference.cache
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.csproj.CoreCompileInputs.cache
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.RazorAssemblyInfo.cache
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.RazorAssemblyInfo.cs
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.AssemblyInfoInputs.cache
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.AssemblyInfo.cs
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.RazorTargetAssemblyInfo.cache
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.dll
+C:\Users\frkny\source\repos\RestApi3\RestApi3\obj\Debug\netcoreapp2.1\RestApi3.pdb
